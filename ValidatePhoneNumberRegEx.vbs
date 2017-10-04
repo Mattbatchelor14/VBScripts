@@ -110,7 +110,7 @@ IF RequiresModification = True Then
 	
 	If NumberModified = False Then 
 		FormatPhoneNumber = Mid(strInput,1,5) & " " & Mid(strInput,6)		
-		MsgBox("Bilbo")
+									MsgBox("Test")
 		Else
 	End IF
 	
